@@ -29,5 +29,5 @@ year = {2023},
 issn = {1746-8094},
 doi = {https://doi.org/10.1016/j.bspc.2022.104209},
 url = {https://www.sciencedirect.com/science/article/pii/S1746809422006632},
-author = {Hanwei Liu and Huiling Cai and Qincheng Lin and Xiwen Zhang and Xuefeng Li and Hui Xiao},
+author = {Hanwei Liu and Huiling Cai and Qincheng Lin and Xiwen Zhang and Xuefeng Li and Hui Xiao}
 ```

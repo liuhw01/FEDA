@@ -3,7 +3,7 @@ FEDA
 
 This is the source code for paper
 
-*Hanwei Liu, Huiling Cai, Qingcheng Lin, Zhang Xiwen, Xuefeng Li, Hui Xiao, FEDA: Fine-grained Emotion Difference Analysis For Facial Expression Recognition, Biomedical Signal Processing and Control. doi:10.1016/j.bspc.2022.104209*
+*Hanwei Liu, Huiling Cai, Qingcheng Lin, Zhang Xiwen, Xuefeng Li, Hui Xiao, [FEDA: Fine-grained Emotion Difference Analysis For Facial Expression Recognition](https://authors.elsevier.com/c/1fouO6DBR35ibe), Biomedical Signal Processing and Control. doi:10.1016/j.bspc.2022.104209*
 
 
 ---
